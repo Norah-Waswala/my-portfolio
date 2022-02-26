@@ -7,8 +7,8 @@ This is a portfolio that describes Norah Waswala in a nutshell,it contains basic
 * HTML
 * CSS
 ## Support and contact details
-For more information, find me at <a href="https://">norah.waswala15@gmail.com</a>
+For more information, find me at {my email}(https://norah.waswala15@gmail.com)
 ### License
-[MIT LICENSE](license)
+[MIT LICENSE](LICENSE)
 
 Copyright (c) {2022} 
