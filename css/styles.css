@@ -1,7 +1,7 @@
 body {
-    background-color: lightcoral;
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%
+    font-family: sans-serif;
+    background-color: palevioletred;
+}
+h1 {
+    color: blue;
 }
