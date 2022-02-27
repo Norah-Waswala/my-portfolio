@@ -24,7 +24,7 @@ This is a portfolio that describes Norah Waswala in a nutshell, it contains basi
 ## Support and contact details
 For more information, find me at my email (https://norah.waswala15@gmail.com)
 ## link to live site on github pages
-git@github.com:Norah-Waswala/my-portfolio.git
+norah-waswala.github.io/my-portfolio/
 ### License
 [MIT LICENSE](LICENSE)
 
