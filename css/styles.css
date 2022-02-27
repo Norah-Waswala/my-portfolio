@@ -4,9 +4,12 @@ body {
     border: 0ch;
     color: brown;
     opacity: 1;
+    margin: 0%;
+    padding: 0%;
 }
 .main {
   text-align: center;
+  float: left;
   
  
 }
@@ -19,13 +22,19 @@ img {
     height: 30%;
 
 }
-
-.details {
-    ;
-}
 .details h3 {
     color: black;
 }
 h2 { 
     color: black;
+
+}
+.projects {
+    float: left;
+}
+.main img {
+    float: left;
+}
+.details {
+    block-size: 15cm;
 }
