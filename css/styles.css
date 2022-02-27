@@ -3,9 +3,11 @@ body {
     font-size: 20px;
     border: 0ch;
     color: brown;
+    opacity: 1;
 }
 .main {
-  text-align: center; 
+  text-align: center;
+  
  
 }
 img {
@@ -17,14 +19,13 @@ img {
     height: 30%;
 
 }
+
+.details {
+    ;
+}
 .details h3 {
-        color: black;
-    }
-    
+    color: black;
 }
-.projects {
-    text-align: center;
-}
-h2 {
+h2 { 
     color: black;
 }
