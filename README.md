@@ -11,7 +11,7 @@ NORAH WASWALA
           * Interests and hobbies
           * Contact information
 
-## Link to projects created
+## Links to projects created
 1. git@github.com:Norah-Waswala/happy-trails-travel-agency.git   
 This is a project on a travel agency that needed a website page to advertise their services and various travel destinations that they support.
 2. git@github.com:Norah-Waswala/first-webpage.git  
