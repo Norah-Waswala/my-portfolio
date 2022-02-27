@@ -2,9 +2,11 @@ body {
     font-family: sans-serif;
     font-size: 20px;
     border: 0ch;
+    color: brown;
 }
 .main {
-  text-align: center;  
+  text-align: center; 
+ 
 }
 img {
     border-radius: 20%;
@@ -14,4 +16,15 @@ img {
     width: 30%;
     height: 30%;
 
+}
+.details h3 {
+        color: black;
+    }
+    
+}
+.projects {
+    text-align: center;
+}
+h2 {
+    color: black;
 }
